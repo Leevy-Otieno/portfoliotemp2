@@ -1,14 +1,14 @@
 /* Dark Mode Variables */
 [data-theme="dark"] {
-    --primary-color: #00BFFF;
-    --secondary-color: #1E90FF;
+    --primary-color: #0fe445;
+    --secondary-color: #09a344;
     --text-color: #E4E4E4;
     --background-color: #121212;
     --muted-text: #A0A0A0;
     --card-bg: rgba(255, 255, 255, 0.05);
     --card-border: rgba(255, 255, 255, 0.1);
     --nav-bg: rgba(18, 18, 18, 0.8);
-    --hover-color: #33CCFF;
+    --hover-color: #55ff33;
 }
 
 /* Dark Mode Transitions */
